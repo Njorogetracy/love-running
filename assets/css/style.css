@@ -81,7 +81,7 @@ h2 {
 #hero-image img {
     height: 600px;
     width: 100%;
-    background: url('../images/hero-image.webp') no-repeat center center;
+    background: url('../assets/css/images/hero-image.webp') no-repeat center center;
 
 
     /*animates zoom effect on loading page*/
@@ -193,7 +193,17 @@ hr {
 }
 
 #circle-cover-bg img {
-    background: url('../images/ethos-center-image.jpg') no-repeat center center;
+    background: url('../../assets/css/images/ethos-center-image.jpg') no-repeat center center;
     height: 100%;
     border-radius: 50%;
+}
+
+/*event times*/
+
+#times {
+    background-image: url("../../assets/css/images/dublin-city.webp");
+    background-repeat: repeat;
+    background-size: cover;
+    background-position: center;
+    width: 100%;
 }
