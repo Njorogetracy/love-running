@@ -14,8 +14,7 @@ body {
 
 /* headings and logo*/
 
-h1,
-h2 {
+h1, h2 {
     font-family: Oswald, 'sans-serif';
     text-transform: uppercase;
     letter-spacing: 4px;
@@ -39,8 +38,7 @@ h2 {
     float: right;
 }
 
-#menu,
-#logo {
+#menu, #logo {
     line-height: 75px;
 }
 
@@ -73,12 +71,11 @@ h2 {
     position: relative;
 }
 
-#cover-text,
-#cover-text h2 {
+#cover-text, #cover-text h2 {
     color: #ffffff;
 }
 
-#hero-image > img {
+#hero-image img {
     height: 600px;
     width: 100%;
     background: url('../../assets/css/images/hero-image.webp') no-repeat center center;
@@ -193,7 +190,7 @@ hr {
 }
 
 #circle-cover-bg img {
-    background: url('../../assets/css/images/ethos-center-image.jpg') no-repeat center center;
+    background: url('../../assets/css/images/hero-image.webp') no-repeat center center;
     height: 100%;
     border-radius: 50%;
 }
@@ -235,7 +232,7 @@ footer {
     text-align: center;
 }
 
-.social-networks>li {
+.social-networks > li {
     display: inline;
 }
 
@@ -255,7 +252,7 @@ footer {
     column-gap: 0px;
 }
 
-#photos>img {
+#photos > img {
     width: 100%;
 }
 
@@ -275,8 +272,7 @@ footer {
     margin: 0;
 }
 
-#left-about,
-#right-about {
+#left-about, #right-about {
     width: 100%;
     float: left;
     padding: 0;
@@ -289,7 +285,7 @@ footer {
     padding: 0;
 }
 
-#times>div {
+#times > div {
     width: 100%;
     clear: both;
     height: 150px;
@@ -323,19 +319,16 @@ hr {
         margin: 0 auto;
     }
 
-    .left-about-heading,
-    .right-about-heading {
+    .left-about-heading, .right-about-heading {
         width: inherit;
     }
 
-    .left-about-heading h2,
-    .right-about-heading h2 {
+    .left-about-heading h2, .right-about-heading h2 {
         width: 100%;
         text-align: center;
     }
 
-    .left-about-heading p,
-    .right-about-heading p {
+    .left-about-heading p, .right-about-heading p {
         text-align: center;
         padding: 0 20px;
     }
