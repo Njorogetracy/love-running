@@ -75,7 +75,7 @@ h1, h2 {
     color: #ffffff;
 }
 
-#hero-image img {
+#hero-image {
     height: 600px;
     width: 100%;
     background: url('../../assets/css/images/hero-image.webp') no-repeat center center;
