@@ -317,7 +317,7 @@ footer {
         #club-ethos {
             width: 90%;
             height: 1200px;
-            margin: center;
+            margin: 0 auto;
         }
 
         .left-about-heading, .right-about-heading {
