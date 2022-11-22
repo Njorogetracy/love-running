@@ -81,7 +81,7 @@ h2 {
 #hero-image img {
     height: 600px;
     width: 100%;
-    background: url('../assets/css/images/hero-image.webp') no-repeat center center;
+    background: url('../../assets/css/images/hero-image.webp') no-repeat center center;
 
 
     /*animates zoom effect on loading page*/
