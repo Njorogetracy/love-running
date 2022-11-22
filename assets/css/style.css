@@ -75,7 +75,7 @@ h1, h2 {
     color: #ffffff;
 }
 
-#hero-image img {
+#hero-image {
     height: 600px;
     width: 100%;
     background: url('../../assets/css/images/hero-image.webp') no-repeat center center;
@@ -189,8 +189,8 @@ hr {
     margin: 0 auto;
 }
 
-#circle-cover-bg img {
-    background: url('../../assets/css/images/hero-image.webp') no-repeat center center;
+#circle-cover-bg {
+    background: url('../../assets/css/images/ethos-center-image.jpg') no-repeat center center;
     height: 100%;
     border-radius: 50%;
 }
